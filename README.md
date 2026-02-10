@@ -56,9 +56,8 @@ const recalls = await client.safety.checkFoodRecalls({
 
 ## Documentation
 
-- [API Reference](https://fcp.dev/docs)
 - [Protocol Specification](https://github.com/Food-Context-Protocol/fcp)
-- [Examples](https://github.com/Food-Context-Protocol/server/tree/main/examples)
+- [Reference Server](https://github.com/Food-Context-Protocol/fcp-gemini-server)
 
 ## Requirements
 
